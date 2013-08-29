@@ -2,6 +2,8 @@
 
 > Grunt plugin for compiling wisp files.
 
+[![NPM](https://nodei.co/npm/grunt-wisp-compile.png)](https://nodei.co/npm/grunt-wisp-compile/)
+
 ## Getting Started
 This plugin requires Grunt `~0.4.1`
 
